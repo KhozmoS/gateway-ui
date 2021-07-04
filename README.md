@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is intended to manage gateways. Usefull links below:
+[server](https://github.com/KhozmoS/GatewayApi/tree/main/GatewayApi).
+[server-tests](https://github.com/KhozmoS/GatewayApi/tree/main/GatewayApi) (Usefulls to provide initial data).
 
 ## Available Scripts
 
