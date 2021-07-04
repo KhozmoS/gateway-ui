@@ -2,9 +2,9 @@
 
 This project is intended to manage gateways. Usefull links below:
 
-[server](https://github.com/KhozmoS/GatewayApi/tree/main/GatewayApi).
+[server](https://github.com/KhozmoS/GatewayApi/tree/main/GatewayApi)
 
-[server-tests](https://github.com/KhozmoS/GatewayApi/tree/main/GatewayApi) (Usefulls to provide initial data).
+[server-tests](https://github.com/KhozmoS/GatewayApi/tree/main/GatewayApi) (Usefulls to provide initial data)
 
 ## Available Scripts
 
