@@ -13,7 +13,7 @@ function GatewayLayout() {
     gatewayService.listGateways()
       .then(resp => resp.data.map(g => { 
         g["key"] = g.serialNumber;
-        g["devices"] = <Link to={`/gateway/${g.serialNumber}/devices`}>Edit</Link>;
+        g["devices"] = <Link to={`/gateway/${g.serialNumber}/devices`}>Edit Devices</Link>;
         return g;
       }))
       .then(arr => {
