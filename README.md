@@ -6,6 +6,11 @@ This project is intended to manage gateways. Usefull links below:
 
 [server-tests](https://github.com/KhozmoS/GatewayApi/tree/main/GatewayApi) (Usefulls to provide initial data)
 
+
+## Prerequisites
+
+[Node](https://nodejs.org/es/download)
+
 ## Available Scripts
 
 In the project directory, you can run:
